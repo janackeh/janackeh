@@ -10,7 +10,7 @@ I am a web developer & creative problem solver
 I started learning to code in 2019 but got serious about transitioning into tech as a full time career in 2022. I am interested in front end design and helping people visualize their ideas on the web.
 
 *   🌍  I'm based in Denver/Boulder Colorado
-*   ✉️  You can contact me at [janackeh.me](https://janackeh.me)&[janackeh@gmail.com](mailto:janackeh@gmail.com)
+*   ✉️  You can contact me at [janackeh.me](https://janackeh.me) & [janackeh@gmail.com](mailto:janackeh@gmail.com)
 *   🧠  I'm learning various front end technologies (React, Vue.js, Ruby, etc)
 *   ⚡  I have over 15 years experience working in professional environments collaborating with teams
 
