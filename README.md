@@ -11,7 +11,7 @@ I started learning to code in 2019 but got serious about transitioning into tech
 
 *   🌍  I'm based in Denver/Boulder Colorado
 *   ✉️  You can contact me at [janackeh.me](https://janackeh.me) & [janackeh@gmail.com](mailto:janackeh@gmail.com)
-*   🧠  I'm learning various front end technologies (React, Vue.js, Ruby, etc)
+*   🧠  I'm learning various front end technologies (React, Vue.js)
 *   ⚡  I have over 15 years experience working in professional environments collaborating with teams
 
 ### Skills<p align="left">
