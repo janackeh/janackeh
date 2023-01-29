@@ -4,7 +4,7 @@
 Hi ![](https://i.imgur.com/7OZN7vv.gif)my name is Janackeh Blackwell
 ==========================================================================================================================================
 
-I am a web developer & creative problem solver
+I am a tech community builder, web developer & creative problem solver
 ----------------------------------------------
 
 I started learning to code in 2019 but got serious about transitioning into tech as a full time career in 2022. I am interested in front end design and helping people visualize their ideas on the web.
